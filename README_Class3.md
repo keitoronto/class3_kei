@@ -8,7 +8,7 @@ such as bank has been disrupted.
 <!-- Solutions-->
 Now banks are adapting fintech to revolutionalize their own functions: 
 **Online banking App, etransfer** 
-![image](fintechs.jpeg)
+![image](fintech-bank.png)
 
 ## Solutions
 Content for header
